@@ -73,6 +73,12 @@ Fonts
     font-display: swap;
 }
 @font-face {
+    font-family: "Switzer";
+    src: url("../assets/fonts/Switzer-Bold.woff2") format("woff2");
+    font-weight: 700;
+    font-display: swap;
+}
+@font-face {
     font-family: "Futura PT";
     src: url("../assets/fonts/FuturaCyrillicHeavy.ttf") format("truetype");
     font-weight: 600;
